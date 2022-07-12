@@ -1,0 +1,26 @@
+/* Color Pallet 
+ #CCD7C5 - Ash Gray
+ #8B8BAE - Cool Grey
+ #C7A27C - Camel
+ #526760 - Feldgaru
+ #374B4A - Dark Stale Green
+*/
+
+
+  .block {
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    background-color: #374B4A;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .block img {
+   width: 230px;
+   height: 220px;
+  }
+  
+  
