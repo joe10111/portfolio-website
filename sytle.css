@@ -1,0 +1,225 @@
+body {
+ 
+background: #F5F5F5;
+}
+* {
+  font-family: 'KoHo';
+} 
+
+.introText{
+  position: absolute;
+  width: 739px;
+  height: 194px;
+  left: 100px;
+  font-size: 74px;
+}
+
+.mainText{
+  position: absolute;
+  left: 42.66%;
+  right: 8.28%;
+  top: 27.31%;
+  bottom: 41.02%;
+}
+
+.viewWork{
+  position: absolute;
+width: 397px;
+height: 194px;
+left: 1419px;
+top: 20px;
+font-size: 44px;
+}
+
+.mainPhoto{
+  position: absolute;
+width: 420px;
+height: 420px;
+left: 210px;
+top: 265px;
+}
+
+.links{
+  position: absolute;
+left: 3.18%;
+right: 89.06%;
+top: 650px;
+
+
+font-family: 'KoHo';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 83px;
+} 
+
+.aboutMe {
+  position: absolute;
+left: 77%;
+top: 750px;
+}
+
+.gitHub-Logo{
+  position: absolute;
+width: 120px;
+height: 120px;
+left: 54px;
+top: 800px;
+}
+
+.linkedIn-Logo{
+  position: absolute;
+width: 120px;
+height: 120px;
+left: calc(50% - 120px/2 - 650px);
+top: 800px;
+}
+main{
+font-family: 'KoHo';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 83px;
+
+color: #000000;
+}
+
+.projectText {
+  position: absolute;
+left: 38.8%;
+right: 43.23%;
+top: 950px;
+bottom: 70.78%;
+
+font-family: 'KoHo';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 125px;
+
+color: #000000;
+}
+
+.projectThumbNail1A { 
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 6.88%;
+  right: 72.4%;
+  top: 1250px;
+  bottom: 60.93%;
+}
+
+.gitHubTag1A {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  left: 6.88%;
+  right: 72.4%;
+  top: 1700px;
+  bottom: 60.93%;
+}
+
+.liveTag1A {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  left: 18.2%;
+  right: 72.4%;
+  top: 1700px;
+  bottom: 60.93%;
+}
+
+.projectThumbNail1B { 
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 37.45%;
+  right: 41.82%;
+  top: 1250px;
+  bottom: 60.93%;
+}
+
+.gitHubTag1B {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  left: 36.51%;
+  right: 53.75%;
+  top: 1700px;
+  bottom: 60.93%;
+}
+
+.liveTag1B {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  left: 48.75%;
+  right: 41.61%;
+  top: 1700px;
+  bottom: 60.93%;
+}
+
+.projectThumbNail1C { 
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 67.97%;
+  right: 11.3%;
+  top: 1250px;
+  bottom: 60.93%;
+}
+
+.gitHubTag1C {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  left: 68.0%;
+  right: 21.46%;
+  top: 1700px;
+  bottom: 60.93%;
+}
+
+.liveTag1C {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  left: 79.50%;
+  right: 9.32%;
+  top: 1700px;
+  bottom: 60.93%;
+}
+.aboutMeImage {
+  width: 640px;
+  height: 820px;
+  position: absolute;
+  top: 2050px;
+  left: 60.50%;
+  right: 12.00%;
+  border-radius: 158px;
+}
+
+.aboutMeText {
+  width: 640px;
+  height: 820px;
+  position: absolute;
+  top: 2050px;
+  left: 10.50%;
+  right: 80.00%;
+  
+  font-family: 'KoHo';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  
+  
+  color: #000000;
+}
+
+footer {
+  position: absolute;
+  top: 2800px;
+  text-align: left;
+  padding: 3px;
+  color: black;
+}
